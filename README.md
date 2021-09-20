@@ -2,7 +2,7 @@
 
 ![demo](https://tether.rayhanadev.repl.co/public/tether_cover.png)
 
-### PLAY IT [FULLSCREEN](hhttps://tether.rayhanadev.repl.co) NOW!
+### PLAY IT [FULLSCREEN](https://tether.harshuboiplayz.repl.co) NOW!
 
 ---
 
