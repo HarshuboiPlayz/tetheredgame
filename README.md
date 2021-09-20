@@ -2,7 +2,7 @@
 
 ![demo](https://tether.rayhanadev.repl.co/public/tether_cover.png)
 
-### PLAY IT [FULLSCREEN](hhttps://tether.harshuboiplayz.repl.co) NOW!
+### PLAY IT [FULLSCREEN](hhttps://tether.rayhanadev.repl.co) NOW!
 
 ---
 
@@ -27,4 +27,4 @@ Keep an eye on **enemies spawning in**, they will charge at you **blazing fast**
 
 **Don't let your tether go wack**! If you move it around too much, it becomes **uncontrollable** and you have an awful time dealing with *Eyes*.
 
-Instead of charging a *Twitchy* head on, wait for it to **run out of fuel** and then destroy it.
+Instead of charging a *Red Thing* head on, wait for it to **run out of fuel** and then destroy it.
